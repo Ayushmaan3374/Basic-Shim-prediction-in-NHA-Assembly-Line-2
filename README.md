@@ -31,5 +31,3 @@ After comparative analysis, **LightGBM** was selected as the final model due to:
 - Python (NumPy, pandas, scikit-learn)
 - LightGBM
 - Joblib (for model serialization)
-
-## 📁 Repository Structure
